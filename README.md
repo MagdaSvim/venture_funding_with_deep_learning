@@ -29,11 +29,11 @@ Before opening the Jupyter notebook, you need to install:
 pip install --upgrade tensorflow
 ```
 
-	to verify installation:
+to verify installation:
 
-	```python
-	python -c "import tensorflow as tf;print(tf.__version__)"
-	```
+```python
+python -c "import tensorflow as tf;print(tf.__version__)"
+```
 
 Keras is included with TensorFlow 2.0
 
